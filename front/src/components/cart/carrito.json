@@ -1,0 +1,36 @@
+{
+    "item": [
+        {
+            "_id": "63513206109735e58d94addd",
+            "producto": "cuadro noche estrellada",
+            "precio": 690000,
+            "imagen": "./images/pintura_1.webp",
+            "inventario": 40,
+            "__v": 0
+        },
+        {
+            "_id": "63513298109735e58d94ade0",
+            "nombre": "Cuadro la bolla",
+            "precio": 230000,
+            "imagen": "./images/pintura_2.webp",
+            "inventario": 120,
+            "__v": 0
+        },
+        {
+            "_id": "635132ea109735e58d94ade3",
+            "nombre": "Retreto de león",
+            "precio": 180000,
+            "imagen": "./images/pintura_3.webp",
+            "inventario": 20,
+            "__v": 0
+        },
+        {
+            "_id": "63513379109735e58d94ade6",
+            "nombre": "Arte abstracto claridad",
+            "precio": 200000,
+            "imagen": "./images/pintura_4.webp",
+            "inventario": 20,
+            "__v": 0
+        }
+    ]
+}

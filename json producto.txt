@@ -1,0 +1,32 @@
+{
+    "nombre" : "Nutra gold Gatos 1,5kg",
+    "precio" : "69000",
+    "descripcion" : "Pienso para gatos adultos, super premium. Alimento balanceado para control de dieta. Alimento holistico",
+    "calificacion" : 4.9,
+    "imagen" : [{
+        "public_id" : "productos/dsvbpny402gelwugv2le",
+        "url" : "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/1/1/111110880_ed-min.jpg"
+    }],
+    "categoria" : "Alimento seco",
+    "vendedor" : "Natali Velasquez",
+    "inventario" : 50,
+    "numCalificaciones" : 32,
+    "opiniones": []
+}
+
+
+// CATEGORIAS
+
+  -  Abstracto
+  -  Arte Clasico
+  -  Rostros
+  -  Boho Chic
+  -  Botanica
+  -  Infantil
+  -  Animales
+  -  New York
+
+
+
+comand back server   :  npm run dev
+comand front server  :  npm start    - npm run start  
