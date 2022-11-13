@@ -30,3 +30,9 @@
 
 comand back server   :  npm run dev
 comand front server  :  npm start    - npm run start  
+
+
+Email : restablecer contraseña
+
+  email: GalleryShop-@outlook.com
+  pass: misiontic2022
