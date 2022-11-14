@@ -19,7 +19,7 @@ export const Home = () => {
     const dispatch = useDispatch();
     useEffect(() => {
         if (error) {
-            return alert(error)
+            return alert.error(error)
         }
 
         dispatch(getProducts(currentPage, keyword, precio));
@@ -34,6 +34,7 @@ export const Home = () => {
             {loading ? <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i> : (
                 <Fragment>
                     <MetaData title="Home "></MetaData>
+                    <br></br>
                     <h1 id='encabezado_productos'>&nbsp; Ultimos productos</h1>
 
                     <section id='productos' className='container mt-5 '>

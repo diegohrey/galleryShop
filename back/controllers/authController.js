@@ -213,7 +213,7 @@ exports.getAllUsers = catchAsyncErrors(async(req, res, next)=>{
     })
 })
 
-//Ver el detalle de 1 usuario
+//Ver el informacion de 1 usuario
 exports.getUserDetails= catchAsyncErrors(async(req, res, next)=>{
     const user= await User.findById(req.params.id);
 
