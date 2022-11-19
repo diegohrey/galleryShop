@@ -1,0 +1,785 @@
+[{
+  "_id": {
+    "$oid": "635ee9106d492e74ef0d8094"
+  },
+  "nombre": "Cuadro Abstracto Amarillo Azul",
+  "precio": 169900,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte abstracto para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 4.6,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/abstracto/amarillo_azul.webp",
+      "_id": {
+        "$oid": "635ee9106d492e74ef0d8095"
+      }
+    }
+  ],
+  "categoria": "Abstracto",
+  "vendedor": "Daniel Herrera",
+  "inventario": 25,
+  "numCalificaciones": 15,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667164432118"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ee9a86d492e74ef0d8097"
+  },
+  "nombre": "Cuadro Abstracto Arído",
+  "precio": 169900,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte abstracto para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 4.2,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/abstracto/arido.webp",
+      "_id": {
+        "$oid": "635ee9a86d492e74ef0d8098"
+      }
+    }
+  ],
+  "categoria": "Abstracto",
+  "vendedor": "Daniel Herrera",
+  "inventario": 25,
+  "numCalificaciones": 15,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667164584357"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ee9de6d492e74ef0d809a"
+  },
+  "nombre": "Cuadro Fluido Abstracto",
+  "precio": 169900,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte abstracto para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 4.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/abstracto/fluido_abstracto.webp",
+      "_id": {
+        "$oid": "635ee9de6d492e74ef0d809b"
+      }
+    }
+  ],
+  "categoria": "Abstracto",
+  "vendedor": "Daniel Herrera",
+  "inventario": 25,
+  "numCalificaciones": 15,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667164638438"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eea216d492e74ef0d809d"
+  },
+  "nombre": "Cuadro Abstracto Exprecion",
+  "precio": 169900,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte abstracto para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/abstracto/pintura_4.webp",
+      "_id": {
+        "$oid": "635eea216d492e74ef0d809e"
+      }
+    }
+  ],
+  "categoria": "Abstracto",
+  "vendedor": "Daniel Herrera",
+  "inventario": 25,
+  "numCalificaciones": 15,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667164705035"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eea656d492e74ef0d80a0"
+  },
+  "nombre": "Cuadro Abstracto Claridad",
+  "precio": 169900,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte abstracto para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/abstracto/pintura_5.webp",
+      "_id": {
+        "$oid": "635eea656d492e74ef0d80a1"
+      }
+    }
+  ],
+  "categoria": "Abstracto",
+  "vendedor": "Daniel Herrera",
+  "inventario": 25,
+  "numCalificaciones": 20,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667164773605"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eec166d492e74ef0d80b5"
+  },
+  "nombre": "Cuadro Animal Bisonte",
+  "precio": 195500,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/bisonte.webp",
+      "_id": {
+        "$oid": "635eec166d492e74ef0d80b6"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165206837"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eec886d492e74ef0d80c2"
+  },
+  "nombre": "Cuadro Animal Caballos",
+  "precio": 189300,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/caballos.webp",
+      "_id": {
+        "$oid": "635eec886d492e74ef0d80c3"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165320906"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eecaf6d492e74ef0d80d0"
+  },
+  "nombre": "Cuadro Animal Cebra",
+  "precio": 160500,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/cebra.webp",
+      "_id": {
+        "$oid": "635eecaf6d492e74ef0d80d1"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165359040"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eece36d492e74ef0d80d3"
+  },
+  "nombre": "Cuadro Animal Ciervo rojo",
+  "precio": 89900,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/ciervo_rojo.webp",
+      "_id": {
+        "$oid": "635eece36d492e74ef0d80d4"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165411269"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eecf56d492e74ef0d80d6"
+  },
+  "nombre": "Cuadro Animal Ciervo rojo (B)",
+  "precio": 89900,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/ciervo.webp",
+      "_id": {
+        "$oid": "635eecf56d492e74ef0d80d7"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165430064"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eed1a6d492e74ef0d80d9"
+  },
+  "nombre": "Cuadro Animal Jirafa",
+  "precio": 120900,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 3.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/jirafa.webp",
+      "_id": {
+        "$oid": "635eed1a6d492e74ef0d80da"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165466704"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eed436d492e74ef0d80dc"
+  },
+  "nombre": "Cuadro Animal Leon",
+  "precio": 120900,
+  "descripcion": "Cuadro moderno en impresión digital de alta definición de animales en colores vibrantes que le darán un toque de naturaleza a tu hogar, hace parte de nuestra colección -Animales- donde encontrarás más diseños que combinan muy bien con este cuadro.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/animales/retrato_leon.webp",
+      "_id": {
+        "$oid": "635eed436d492e74ef0d80dd"
+      }
+    }
+  ],
+  "categoria": "Animales",
+  "vendedor": "johanna prada",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165507044"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eee5d6d492e74ef0d80f3"
+  },
+  "nombre": "Cuadro Arte La Creacion De Adam",
+  "precio": 126900,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 4.9,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/arte_clasico/la_creacion_de_adam.webp",
+      "_id": {
+        "$oid": "635eee5d6d492e74ef0d80f4"
+      }
+    }
+  ],
+  "categoria": "Arte Clasico",
+  "vendedor": "salome sana",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165789230"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eeed56d492e74ef0d810c"
+  },
+  "nombre": "Cuadro Arte La Monna Lisa",
+  "precio": 250999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 4.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/arte_clasico/monna_lisa.webp",
+      "_id": {
+        "$oid": "635eeed56d492e74ef0d810d"
+      }
+    }
+  ],
+  "categoria": "Arte Clasico",
+  "vendedor": "salome sana",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667165909332"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eef396d492e74ef0d810f"
+  },
+  "nombre": "Cuadro Arte Mujer",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.2,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/arte_clasico/mujer_con_sombrilla.webp",
+      "_id": {
+        "$oid": "635eef396d492e74ef0d8110"
+      }
+    }
+  ],
+  "categoria": "Arte Clasico",
+  "vendedor": "salome sana",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166009715"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eef586d492e74ef0d8112"
+  },
+  "nombre": "Cuadro Arte Noche Estrellada",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 4.6,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/arte_clasico/noche_estrellada.webp",
+      "_id": {
+        "$oid": "635eef586d492e74ef0d8113"
+      }
+    }
+  ],
+  "categoria": "Arte Clasico",
+  "vendedor": "salome sana",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166040426"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef2466d492e74ef0d815b"
+  },
+  "nombre": "Cuadro Amanecer Boho",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/boho_chic/amanecer.webp",
+      "_id": {
+        "$oid": "635ef2466d492e74ef0d815c"
+      }
+    }
+  ],
+  "categoria": "Boho Chic",
+  "vendedor": "salome sana",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166790793"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef2626d492e74ef0d815e"
+  },
+  "nombre": "Cuadro Meditacion Boho",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "../images/boho_chic/meditacion.webp",
+      "_id": {
+        "$oid": "635ef2626d492e74ef0d815f"
+      }
+    }
+  ],
+  "categoria": "Boho Chic",
+  "vendedor": "salome sana",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166818889"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef29f6d492e74ef0d8161"
+  },
+  "nombre": "Cuadro Balazo Real",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/botanica/balazo_real.webp",
+      "_id": {
+        "$oid": "635ef29f6d492e74ef0d8162"
+      }
+    }
+  ],
+  "categoria": "Boho Chic",
+  "vendedor": "Botanica",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166879563"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef2bd6d492e74ef0d8164"
+  },
+  "nombre": "Cuadro sanseviera",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.6,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/botanica/sanseviera.webp",
+      "_id": {
+        "$oid": "635ef2bd6d492e74ef0d8165"
+      }
+    }
+  ],
+  "categoria": "Boho Chic",
+  "vendedor": "Botanica",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166909366"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3176d492e74ef0d8167"
+  },
+  "nombre": "Cuadro infantil ardilla",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.6,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/infantil/ardilla.webp",
+      "_id": {
+        "$oid": "635ef3176d492e74ef0d8168"
+      }
+    }
+  ],
+  "categoria": "Infantil",
+  "vendedor": "Infantilks",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667166999385"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3276d492e74ef0d816a"
+  },
+  "nombre": "Cuadro infantil osito",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.6,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/infantil/osito.webp",
+      "_id": {
+        "$oid": "635ef3276d492e74ef0d816b"
+      }
+    }
+  ],
+  "categoria": "Infantil",
+  "vendedor": "Infantilks",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167015003"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3396d492e74ef0d816d"
+  },
+  "nombre": "Cuadro infantil elefante",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.6,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/infantil/elefante.webp",
+      "_id": {
+        "$oid": "635ef3396d492e74ef0d816e"
+      }
+    }
+  ],
+  "categoria": "Infantil",
+  "vendedor": "Infantilks",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167033647"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3776d492e74ef0d8170"
+  },
+  "nombre": "Cuadro Dumbo",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/new_york/dumbo.webp",
+      "_id": {
+        "$oid": "635ef3776d492e74ef0d8171"
+      }
+    }
+  ],
+  "categoria": "New York",
+  "vendedor": "jasan",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167095533"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3856d492e74ef0d8173"
+  },
+  "nombre": "Cuadro Empire",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/new_york/empire.webp",
+      "_id": {
+        "$oid": "635ef3856d492e74ef0d8174"
+      }
+    }
+  ],
+  "categoria": "New York",
+  "vendedor": "jasan",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167109868"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef39d6d492e74ef0d8176"
+  },
+  "nombre": "Cuadro Flatiron",
+  "precio": 50999,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/new_york/flatiron.webp",
+      "_id": {
+        "$oid": "635ef39d6d492e74ef0d8177"
+      }
+    }
+  ],
+  "categoria": "New York",
+  "vendedor": "jasan",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167133049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3be6d492e74ef0d8179"
+  },
+  "nombre": "Cuadro Manhattan",
+  "precio": 250000,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/new_york/manhattan.webp",
+      "_id": {
+        "$oid": "635ef3be6d492e74ef0d817a"
+      }
+    }
+  ],
+  "categoria": "New York",
+  "vendedor": "jasan",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167166603"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ef3d26d492e74ef0d817c"
+  },
+  "nombre": "Cuadro Midtown",
+  "precio": 250000,
+  "descripcion": "Lienzografia (Impresión digital sobre lienzo) de alta definición, obra de Arte Clásico para que llenes de color tu hogar, agrega nuestro marco premium flotante para tener una pieza única y de alta calidad en tus espacios. Lista para colgar.",
+  "calificacion": 3.8,
+  "imagen": [
+    {
+      "public_id": "productos/dsvbpny402gelwugv2le",
+      "url": "./images/new_york/midtown.webp",
+      "_id": {
+        "$oid": "635ef3d26d492e74ef0d817d"
+      }
+    }
+  ],
+  "categoria": "New York",
+  "vendedor": "jasan",
+  "inventario": 16,
+  "numCalificaciones": 10,
+  "opiniones": [],
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1667167186224"
+    }
+  },
+  "__v": 0
+}]
